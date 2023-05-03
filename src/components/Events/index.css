@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+}
+.events-list-container {
+  background-color: #3a4b63;
+  padding-left: 10px;
+  padding-top: 10px;
+
+  width: 70vw;
+}
+
+.heading {
+  color: white;
+  padding-left: 30px;
+}
+.events-list {
+  flex-wrap: wrap;
+  display: flex;
+}
+.initial {
+  color: #64748b;
+  font-weight: 500;
+  font-size: 22px;
+}
+.event-info {
+  width: 40vw;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+  padding-top: 15vh;
+}
+
+.event-info-img {
+  width: 300px;
+}
+
+.btn {
+  height: 40px;
+  width: 150px;
+  background-color: #0967d2;
+  border-radius: 6px;
+  border-style: none;
+  font-weight: 600;
+  color: white;
+}
+.registered {
+  height: 100px;
+  width: 100px;
+}

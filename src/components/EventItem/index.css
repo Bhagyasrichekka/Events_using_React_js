@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.event-card {
+  width: 40%;
+  list-style-type: none;
+  margin: 15px;
+  color: white;
+  padding: 5px;
+}
+
+.event-img {
+  width: 300px;
+}
+.name {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+button {
+  cursor: pointer;
+}
